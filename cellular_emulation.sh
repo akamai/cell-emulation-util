@@ -1,3 +1,7 @@
+# cellular_emulation.sh
+# Copyright (c) 2016 Akamai Technologies, Inc. Released under Apache License Version 2.0.
+# Version 0.1
+
 declare -a lat_array
 declare -a thru_array
 declare -a gap_array

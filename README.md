@@ -30,9 +30,13 @@ $ ./cellular_emulation.sh loss_based good
 ## Background
 
 This utility was created by Utkarsh Goel at Akamai during research for
-a paper entitled "Rethinking Sharding for Faster HTTP/2" authored by
-Utkarsh Goel, Moritz Steiner, Mike P. Wittie, Martin Flack, and
-Stephen Ludin.
+a paper entitled "Making HTTP/2 Pages Load Faster in Lossy Cellular
+Networks" authored by Utkarsh Goel, Moritz Steiner, Mike P. Wittie,
+Martin Flack, and Stephen Ludin.
+The
+[manuscript is available](https://www.akamai.com/us/en/multimedia/documents/technical-publication/domain-sharding-for-faster-http2-in-lossy-cellular-networks.pdf)
+and [detailed instructions to setup this testbed are
+available](https://developer.akamai.com/blog/2017/11/27/replaying-cellular-network-characteristics-cloud-infrastructure/).
 
 (c) Copyright 2016 Akamai Technologies, Inc. Released under Apache
 License Version 2.0.
